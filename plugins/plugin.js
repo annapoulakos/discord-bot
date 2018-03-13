@@ -29,6 +29,10 @@ class Plugin {
         return;
     }
 
+    DEFAULT (msg) {
+        msg.reply('Hello from the botiverse.');
+    }
+
     VERSION (msg) {
         let embed = this._buildEmbed(`Version ${this.version}`);
         this.changelog.forEach(change => {
