@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Burn",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/b/bf/Burn.png/revision/latest/scale-to-width-down/180?cb=20180120064630",
+        "rarity": "Special",
+        "type": "Status",
+        "basic": {
+            "oracle": "Unplayable.\nAt the end of your turn, take 2 damage."
+        },
+        "upgraded": {
+            "oracle": "Unplayable.\nAt the end of your turn, take 4 damage."
+        }
+    },
+    {
+        "name": "Dazed",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/ad/Dazed.png/revision/latest/scale-to-width-down/180?cb=20180120064641",
+        "rarity": "Special",
+        "type": "Status",
+        "basic": {
+            "oracle": "Unplayable.\nEthereal."
+        }
+    },
+    {
+        "name": "Wound",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a4/Wound.png/revision/latest/scale-to-width-down/180?cb=20180120064653",
+        "rarity": "Special",
+        "type": "Status",
+        "basic": {
+            "oracle": "Unplayable."
+        }
+    }
+]

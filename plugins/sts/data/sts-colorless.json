@@ -1,0 +1,406 @@
+[
+{
+    "name": "Apotheosis",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/93/Apotheosis.png/revision/latest/scale-to-width-down/176?cb=20180120052009",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "2",
+        "oracle": "Upgrade ALL of your cards for the rest of combat.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "1",
+        "oracle": "Upgrade ALL of your cards for the rest of combat.\nExhaust."
+    }
+},
+
+{
+    "name": "Bandage Up",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4e/BandageUp.png/revision/latest/scale-to-width-down/176?cb=20180120052133",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Heal 4 HP.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Heal 6 HP.\nExhaust."
+    }
+},
+
+{
+    "name": "Bite",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/41/G%3Fbite.png/revision/latest/scale-to-width-down/176?cb=20180119213717",
+    "rarity": "Special",
+    "type": "Attack",
+    "basic": {
+        "energy": "1",
+        "oracle": "Deal 7 damage.\nHeal 2 HP."
+    },
+    "upgraded": {
+        "energy": "1",
+        "oracle": "Deal 8 damage.\nHeal 3 HP."
+    }
+},
+
+{
+    "name": "Blind",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/68/Blind.png/revision/latest/scale-to-width-down/176?cb=20180120052154",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Apply 2 Weak."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Apply 2 Weak to ALL enemies."
+    }
+},
+
+{
+    "name": "Dark Shackles",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/79/DarkShackles.png/revision/latest/scale-to-width-down/176?cb=20180120052215",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Enemy loses 9 Strength for the rest of this turn.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Enemy loses 15 Strength for the rest of this turn.\nExhaust."
+    }
+},
+
+{
+    "name": "Deep Breath",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/62/DeepBreath.png/revision/latest/scale-to-width-down/177?cb=20180120052441",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Shuffle your discard pile into your draw pile.\nDraw 1 card."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Shuffle your discard pile into your draw pile.\nDraw 2 cards."
+    }
+},
+
+{
+    "name": "Dramatic Entrance",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/42/DramaticEntrance.png/revision/latest/scale-to-width-down/176?cb=20180120054657",
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "basic": {
+        "energy": "0",
+        "oracle": "Innate.\nDeal 6 damage to ALL enemies.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Innate.\nDeal 8 damage to ALL enemies.\nExhaust."
+    }
+},
+
+{
+    "name": "Enlightenment",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/60/Enlightment.png/revision/latest/scale-to-width-down/176?cb=20180120060356",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Reduce the cost of cards in your hand to 1 this turn."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Reduce the cost of cards in your hand to 1 this combat."
+    }
+},
+
+{
+    "name": "Finesse",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/67/Finesse.png/revision/latest/scale-to-width-down/176?cb=20180120054708",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Gain 2 Block.\nDraw 1 card."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Gain 4 Block.\nDraw 1 card."
+    }
+},
+
+{
+    "name": "Flash of Steel",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/30/FlashOfSteel.png/revision/latest/scale-to-width-down/176?cb=20180120054717",
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "basic": {
+        "energy": "0",
+        "oracle": "Deal 3 damage.\nDraw 1 card."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Deal 6 damage.\nDraw 1 card."
+    }
+},
+
+{
+    "name": "Good Instincts",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/b/b8/GoodInstincts.png/revision/latest/scale-to-width-down/176?cb=20180120054728",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Gain 4 Block."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Gain 7 Block."
+    }
+},
+
+{
+    "name": "J.A.X.",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/5f/JAX.png/revision/latest/scale-to-width-down/175?cb=20180120053408",
+    "rarity": "Special",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Lose 3 HP.\nGain 2 Strength.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Lose 3 HP.\nGain 3 Strength.\nExhaust."
+    }
+},
+
+{
+    "name": "Jack Of All Trades",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/d9/JackOfAllTrades.png/revision/latest/scale-to-width-down/176?cb=20180120054739",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Add 1 random colorless card to your hand.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Add 2 random colorless card to your hand.\nExhaust."
+    }
+},
+
+{
+    "name": "Madness",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/ee/Madness.png/revision/latest/scale-to-width-down/176?cb=20180120054801",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "1",
+        "oracle": "A random card in your hand costs 0 for the rest of combat.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "A random card in your hand costs 0 for the rest of combat.\nExhaust."
+    }
+},
+
+{
+    "name": "Master of Strategy",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/33/MasterOfStrategy.png/revision/latest/scale-to-width-down/176?cb=20180120060415",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Draw 3 cards.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Draw 4 cards.\nExhaust."
+    }
+},
+
+{
+    "name": "Mind Blast",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/26/MindBlast.png/revision/latest/scale-to-width-down/176?cb=20180120054812",
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "basic": {
+        "energy": "0",
+        "oracle": "Deal damage equal to the number of cards in your draw pile.\nInnate."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Deal damage equal to the number of cards in your draw pile."
+    }
+},
+
+{
+    "name": "Panacea",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/37/Panacea.png/revision/latest/scale-to-width-down/176?cb=20180120054820",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Gain 1 Artifact.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Gain 2 Artifact.\nExhaust."
+    }
+},
+
+{
+    "name": "Panache",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/19/Panache.png/revision/latest/scale-to-width-down/176?cb=20180120060427",
+    "rarity": "Rare",
+    "type": "Power",
+    "basic": {
+        "energy": "0",
+        "oracle": "Every time you play 5 cards in a single turn, deal 10 damage to ALL enemies."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Every time you play 5 cards in a single turn, deal 14 damage to ALL enemies."
+    }
+},
+
+{
+    "name": "Purity",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a2/Purity.png/revision/latest/scale-to-width-down/176?cb=20180120054830",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Choose and Exhaust up to 3 cards in your hand.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Choose and Exhaust up to 5 cards in your hand.\nExhaust."
+    }
+},
+
+{
+    "name": "Sadistic Nature",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a8/SadisticNature.png/revision/latest/scale-to-width-down/176?cb=20180120060439",
+    "rarity": "Rare",
+    "type": "Power",
+    "basic": {
+        "energy": "0",
+        "oracle": "Whenever you apply a Debuff to an enemy, they take 3 damage."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Whenever you apply a Debuff to an enemy, they take 4 damage."
+    }
+},
+
+{
+    "name": "Secret Technique",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/5c/SecretTechnique.png/revision/latest/scale-to-width-down/176?cb=20180120060449",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Choose a Skill from your draw pile and place it into your hand.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Choose a Skill from your draw pile and place it into your hand."
+    }
+},
+
+{
+    "name": "Secret Weapon",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/5a/SecretWeapon.png/revision/latest/scale-to-width-down/176?cb=20180120060501",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Choose an Attack from your draw pile and place it into your hand.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Choose an Attack from your draw pile and place it into your hand."
+    }
+},
+
+{
+    "name": "Shiv",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/b/b6/Shiv.png/revision/latest/scale-to-width-down/175?cb=20180120053608",
+    "rarity": "Special",
+    "type": "Attack",
+    "basic": {
+        "energy": "0",
+        "oracle": "Deal 4 damage.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Deal 6 damage.\nExhaust."
+    }
+},
+
+{
+    "name": "Swift Strike",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8b/SwiftStrike.png/revision/latest/scale-to-width-down/176?cb=20180120054843",
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "basic": {
+        "energy": "0",
+        "oracle": "Deal 5 damage."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Deal 8 damage."
+    }
+},
+
+{
+    "name": "Thinking Ahead",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/0c/ThinkingAhead.png/revision/latest/scale-to-width-down/176?cb=20180120060512",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Draw 2 cards.\nPut a card from your hand on top of your draw pile.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Draw 2 cards.\nPut a card from your hand on top of your draw pile."
+    }
+},
+
+{
+    "name": "Transmutation",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/cd/Transmutation.png/revision/latest/scale-to-width-down/176?cb=20180120060525",
+    "rarity": "Rare",
+    "type": "Skill",
+    "basic": {
+        "energy": "X",
+        "oracle": "Add X random colorless cards into your hand.\nExhaust."
+    },
+    "upgraded": {
+        "energy": "X",
+        "oracle": "Add X random upgraded colorless cards into your hand.\nExhaust."
+    }
+},
+
+{
+    "name": "Trip",
+    "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/cf/Trip.png/revision/latest/scale-to-width-down/176?cb=20180120054900",
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "basic": {
+        "energy": "0",
+        "oracle": "Apply 2 Vulnerable."
+    },
+    "upgraded": {
+        "energy": "0",
+        "oracle": "Apply 2 Vulnerable to ALL enemies."
+    }
+}
+]

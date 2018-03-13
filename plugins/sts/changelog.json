@@ -1,0 +1,22 @@
+[
+    {
+        "version": "2.0.4",
+        "changes": [
+            "^ Move to new plugin framework",
+            "+ Add database layer",
+            "+ Add --info command"
+        ]
+    },
+    {
+        "version": "1.0.3",
+        "changes": [
+            "+ Add image search"
+        ]
+    },
+    {
+        "version": "1.0.0",
+        "changes": [
+            "+ Initial Commit"
+        ]
+    }
+]

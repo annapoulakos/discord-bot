@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Clumsy",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8e/Clumsy.png/revision/latest/scale-to-width-down/184?cb=20180120063331",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Ethereal."
+    },
+    {
+        "name": "Decay",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/93/Decay.png/revision/latest/scale-to-width-down/180?cb=20180120063341",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nAt the end of your turn, take 2 damage."
+    },
+    {
+        "name": "Doubt",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6a/Doubt.png/revision/latest/scale-to-width-down/184?cb=20180120063352",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nAt the end of your turn, gain 1 Weak."
+    },
+    {
+        "name": "Injury",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4e/Injury.png/revision/latest/scale-to-width-down/184?cb=20180120063404",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable."
+    },
+    {
+        "name": "Necronomicurse",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/38/Necronomicurse.png/revision/latest/scale-to-width-down/184?cb=20180120063415",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nThere is no escape from this curse."
+    },
+    {
+        "name": "Normality",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a5/Normality.png/revision/latest/scale-to-width-down/183?cb=20180120063427",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nYou cannot play more than 3 cards this turn."
+    },
+    {
+        "name": "Pain",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/54/Pain.png/revision/latest/scale-to-width-down/184?cb=20180120063437",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nWhile in hand, lose 1 HP when other cards are played."
+    },
+    {
+        "name": "Parasite",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f0/Parasite.png/revision/latest/scale-to-width-down/184?cb=20180120063446",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nIf transformed or removed from your deck, lose 3 Max HP."
+    },
+    {
+        "name": "Regret",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/27/Regret.png/revision/latest/scale-to-width-down/180?cb=20180120063454",
+        "rarity": "Special",
+        "type": "Curse",
+        "basic":{
+            "oracle": "Unplayable.\nAt the end of your turn, lose 1 HP for each card in your hand."
+        }
+    },
+    {
+        "name": "Writhe",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6e/Writhe.png/revision/latest/scale-to-width-down/180?cb=20180120063506",
+        "rarity": "Special",
+        "type": "Curse",
+        "oracle": "Unplayable.\nInnate."
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "name": "Slay the Spire Plugin",
+    "short_description": "This plugin serves card and relic information from Slay the Spire.",
+    "_trigger": "/slay",
+    "commands": [
+        {
+            "key": "HELP",
+            "aliases": [
+                "--help",
+                "-h"
+            ]
+        },
+        {
+            "key": "VERSION",
+            "aliases": [
+                "--version",
+                "-v"
+            ]
+        }
+    ],
+    "version": "2.1.5",
+    "changelog": [
+        {
+            "version": "2.1.5",
+            "changes": [
+                "^ migrate to plugin framework v2"
+            ]
+        },
+        {
+            "version": "2.0.4",
+            "changes": [
+                "^ Move to new plugin framework",
+                "+ Add database layer",
+                "+ Add --info command"
+            ]
+        },
+        {
+            "version": "1.0.3",
+            "changes": [
+                "+ Add image search"
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "changes": [
+                "+ Initial Commit"
+            ]
+        }
+    ],
+    "help": {
+        "description": "This plugin service Slay the Spire card and relic information.",
+        "commands": [
+            {
+                "name": "Default",
+                "command": "/slay NAME",
+                "help_text": "Displays the image of a card, or a small bit of information about a relic."
+            },
+            {
+                "name": "Informational",
+                "command": "/slay -i CARDNAME",
+                "help_text": "Displays detailed information about a card. Does not work for relics at this point."
+            },
+            {
+                "name": "Help",
+                "command": "/rules --help",
+                "help_text": "Displays this help documentation.",
+                "key": "HELP"
+            },
+            {
+                "name": "Version",
+                "command": "/rules --version",
+                "help_text": "Displays comprehensive version information.",
+                "key": "VERSION"
+            }
+        ],
+        "additional_fields": []
+    }
+}

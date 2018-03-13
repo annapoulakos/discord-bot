@@ -1,0 +1,807 @@
+[
+    {
+        "name": "Burning Blood",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/48/BurningBlood_73x80.png/revision/latest?cb=20180119001933",
+        "rarity": "Starter - Ironclad",
+        "oracle": "At the end of combat, heal 6 HP."
+    },
+    {
+        "name": "Ring of the Snake",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/21/SerpentRing.png/revision/latest?cb=20180119192459",
+        "rarity": "Starter - Silent",
+        "oracle": "At the start of each combat, draw 2 additional cards."
+    },
+    {
+        "name": "Anchor",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/c0/Anchor.png/revision/latest?cb=20180128001141",
+        "rarity": "Common",
+        "oracle": "Start each combat with 10 Block."
+    },
+    {
+        "name": "Ancient Tea Set",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/5e/TeaSet.png/revision/latest?cb=20180119192413",
+        "rarity": "Common",
+        "oracle": "Whenever you enter a Rest Site, start the next combat with 2 Energy."
+    },
+    {
+        "name": "Art of War",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/fd/ArtOfWar.png/revision/latest?cb=20180119193424",
+        "rarity": "Common",
+        "oracle": "If you do not play any Attacks during your turn, gain an extra Energy next turn."
+    },
+    {
+        "name": "Bag of Marbles",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/b/be/Marbles.png/revision/latest?cb=20180119192616",
+        "rarity": "Common",
+        "oracle": "At the start of each combat, apply 1 Vulnerable to ALL enemies."
+    },
+    {
+        "name": "Bag of Preparation",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/c6/BagOfPreparation.png/revision/latest?cb=20180119192719",
+        "rarity": "Common",
+        "oracle": "At the start of each combat, draw 2 additional cards."
+    },
+    {
+        "name": "Blood Vial",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4e/BloodVial.png/revision/latest?cb=20180119192729",
+        "rarity": "Common",
+        "oracle": "At the start of each combat, heal 2 HP."
+    },
+    {
+        "name": "Bronze Scales",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/3e/BronzeScales.png/revision/latest?cb=20180119192737",
+        "rarity": "Common",
+        "oracle": "Whenever you take damage, deal 3 damage back."
+    },
+    {
+        "name": "Dream Catcher",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/d3/DreamCatcher.png/revision/latest?cb=20180119192752",
+        "rarity": "Common",
+        "oracle": "Whenever you rest, you may add a card to your deck."
+    },
+    {
+        "name": "Happy Flower",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/81/Sunflower.png/revision/latest?cb=20180119192828",
+        "rarity": "Common",
+        "oracle": "Every 3 turns, gain 1 Energy."
+    },
+    {
+        "name": "Juzu Bracelet",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/23/JuzuBracelet.png/revision/latest?cb=20180119192954",
+        "rarity": "Common",
+        "oracle": "Regular enemy combats are no longer encountered in ? rooms."
+    },
+    {
+        "name": "Lantern",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f5/Lantern.png/revision/latest?cb=20180119193003",
+        "rarity": "Common",
+        "oracle": "Gain 1 Energy on the first turn of each combat."
+    },
+    {
+        "name": "Oddly Smooth Stone",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/43/SmoothStone.png/revision/latest?cb=20180119193033",
+        "rarity": "Common",
+        "oracle": "At the start of each combat, gain 1 Dexterity."
+    },
+    {
+        "name": "Omamori",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/1a/Omamori.png/revision/latest?cb=20180119193042",
+        "rarity": "Common",
+        "oracle": "Negate the next 2 Curses you obtain."
+    },
+    {
+        "name": "Orichalcum",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/80/Orichalcum.png/revision/latest?cb=20180119193048",
+        "rarity": "Common",
+        "oracle": "If you end your turn without Block, gain 6 Block."
+    },
+    {
+        "name": "Pen Nib",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/70/PenNib.png/revision/latest?cb=20180119193056",
+        "rarity": "Common",
+        "oracle": "Every 10th Attack you play deals double damage."
+    },
+    {
+        "name": "Prayer Wheel",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/1f/PrayerWheel.png/revision/latest?cb=20180119193104",
+        "rarity": "Common",
+        "oracle": "Non-Boss chests now also contain cards."
+    },
+    {
+        "name": "Regal Pillow",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/36/Pillow.png/revision/latest?cb=20180119193217",
+        "rarity": "Common",
+        "oracle": "Heal an additional 15 HP when you Rest."
+    },
+    {
+        "name": "Singing Bowl",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/eb/SingingBowl.png/revision/latest?cb=20180119193223",
+        "rarity": "Common",
+        "oracle": "When adding cards to you deck, you may gain +2 Max HP instead."
+    },
+    {
+        "name": "Snecko Skull",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/d7/SnakeSkull.png/revision/latest?cb=20180119193234",
+        "rarity": "Common - Silent",
+        "oracle": "Whenever you apply Poison, apply an additional 1 Poison."
+    },
+    {
+        "name": "Strawberry",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6d/Strawberry.png/revision/latest?cb=20180119193244",
+        "rarity": "Common",
+        "oracle": "Raise your Max HP by 7."
+    },
+    {
+        "name": "Tiny Chest",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6b/TinyChest.png/revision/latest?cb=20180119193252",
+        "rarity": "Common",
+        "oracle": "Gain 30 Gold. You are 10% more likely to find treasure in ? rooms."
+    },
+    {
+        "name": "Vajra",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/dc/Vajra.png/revision/latest?cb=20180119193314",
+        "rarity": "Common",
+        "oracle": "At the start of each combat, gain 1 Strength."
+    },
+    {
+        "name": "War Paint",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/07/WarPaint.png/revision/latest?cb=20180128084341",
+        "rarity": "Common",
+        "oracle": "Upon pick up, Upgrade 2 random Skills."
+    },
+    {
+        "name": "Whetstone",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/9f/Whetstone.png/revision/latest?cb=20180119193416",
+        "rarity": "Common",
+        "oracle": "Upon pick up, Upgrade 2 random Attacks."
+    },
+    {
+        "name": "Blue Candle",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/1b/BlueCandle.png/revision/latest?cb=20180119193433",
+        "rarity": "Uncommon",
+        "oracle": "Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card."
+    },
+    {
+        "name": "Bottled Flame",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8d/FlameBottle.png/revision/latest?cb=20180119193442",
+        "rarity": "Uncommon",
+        "oracle": "Upon pick up, choose an Attack card. Att he start of each combat, this card will be in your hand."
+    },
+    {
+        "name": "Bottled Lightning",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a9/BottledLightning.png/revision/latest?cb=20180128084448",
+        "rarity": "Uncommon",
+        "oracle": "Upon pick up, choose a Skill card. At the start of each combat, this card will be in your hand."
+    },
+    {
+        "name": "Bottled Tornado",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/ac/BottledTornado.png/revision/latest?cb=20180128083820",
+        "rarity": "Uncommon",
+        "oracle": "Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand."
+    },
+    {
+        "name": "Centennial Puzzle",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/0f/CentennialPuzzle.png/revision/latest?cb=20180119193459",
+        "rarity": "Uncommon",
+        "oracle": "This first time you lose HP each combat, draw 3 cards."
+    },
+    {
+        "name": "Darkstone Periapt",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/ca/Darkstone.png/revision/latest?cb=20180128084535",
+        "rarity": "Uncommon",
+        "oracle": "Whenever you obtain a Curse, increase your Max HP by 6."
+    },
+    {
+        "name": "Frozen Egg",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/dc/FrozenEgg.png/revision/latest?cb=20180119192818",
+        "rarity": "Uncommon",
+        "oracle": "Whenever you add a Power card to your deck, it is Upgraded."
+    },
+    {
+        "name": "Gremlin Horn",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/06/GremlinHorn.png/revision/latest?cb=20180119193516",
+        "rarity": "Uncommon",
+        "oracle": "Whenever an enemy dies, gain 1 Energy and draw 1 card."
+    },
+    {
+        "name": "Kunai",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/d7/Kunai.png/revision/latest?cb=20180119193524",
+        "rarity": "Uncommon",
+        "oracle": "Every time you play 3 Attacks in a single turn, gain 1 Dexterity."
+    },
+    {
+        "name": "Letter Opener",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/e5/LetterOpener.png/revision/latest?cb=20180119193532",
+        "rarity": "Uncommon",
+        "oracle": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies."
+    },
+    {
+        "name": "Matryoshka",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/7a/Matryoshka.png/revision/latest?cb=20180119193601",
+        "rarity": "Uncommon",
+        "oracle": "The next 2 chests you open contain 2 Relics. (Excludes Boss chests.)"
+    },
+    {
+        "name": "Meat on the Bone",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/58/Meat.png/revision/latest?cb=20180119193609",
+        "rarity": "Uncommon",
+        "oracle": "If your HP is at or below 50% at the end of combat, heal 12 HP."
+    },
+    {
+        "name": "Mercury Hourglass",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/11/Hourglass.png/revision/latest?cb=20180119193618",
+        "rarity": "Uncommon",
+        "oracle": "At the start of your turn, deal 3 damage to ALL enemies."
+    },
+    {
+        "name": "Molten Egg",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6c/StoneEgg.png/revision/latest?cb=20180119193011",
+        "rarity": "Uncommon",
+        "oracle": "Whenever you add an Attack card to your deck, it is Upgraded."
+    },
+    {
+        "name": "Mummified Hand",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4d/MummifiedHand.png/revision/latest?cb=20180119193626",
+        "rarity": "Uncommon",
+        "oracle": "Whenever you play a Power, a random card in your hand costs 0 for the turn."
+    },
+    {
+        "name": "Ninja Scroll",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/81/NinjaScroll.png/revision/latest?cb=20180119193635",
+        "rarity": "Uncommon - Silent",
+        "oracle": "Start each combat with 3 Shivs in hand."
+    },
+    {
+        "name": "Ornamental Fan",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/52/OrnamentalFan.png/revision/latest?cb=20180119193643",
+        "rarity": "Uncommon",
+        "oracle": "Every time you play 3 Attacks in a single turn, gain 4 Block."
+    },
+    {
+        "name": "Pantograph",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/82/Pantograph.png/revision/latest?cb=20180119193702",
+        "rarity": "Uncommon",
+        "oracle": "At the start of Boss combats, heal 25 HP."
+    },
+    {
+        "name": "Paper Krane",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/c0/PaperCrane.png/revision/latest?cb=20180119193727",
+        "rarity": "Uncommon - Silent",
+        "oracle": "ENemies with Weak deal 50% less damage rather than 25%."
+    },
+    {
+        "name": "Paper Phrog",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/99/PaperFrog.png/revision/latest?cb=20180119193737",
+        "rarity": "Uncommon - Ironclad",
+        "oracle": "Enemies with Vulnerable take 75% more damage rather than 50%."
+    },
+    {
+        "name": "Pear",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/b/b0/Pear.png/revision/latest?cb=20180119193744",
+        "rarity": "Uncommon",
+        "oracle": "Raise your Max HP by 10."
+    },
+    {
+        "name": "Runic Dodecahedron",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/33/Dodecahedron.png/revision/latest?cb=20180119193757",
+        "rarity": "Uncommon",
+        "oracle": "If your HP is full, gain 1 Energy at the start of each turn."
+    },
+    {
+        "name": "Self-Forming Clay",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a2/Clay.png/revision/latest?cb=20180119193806",
+        "rarity": "Uncommon - Ironclad",
+        "oracle": "Whenever you lose HP in combat, gain 3 Block next turn."
+    },
+    {
+        "name": "Shuriken",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/ac/Shuriken.png/revision/latest?cb=20180119193815",
+        "rarity": "Uncommon",
+        "oracle": "Every time you play 3 Attacks in a single turn, gain 1 Strength."
+    },
+    {
+        "name": "Smiling Mask",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/04/MerchantMask.png/revision/latest?cb=20180119193827",
+        "rarity": "Uncommon",
+        "oracle": "The merchant's card removal service now always costs 50 Gold."
+    },
+    {
+        "name": "The Courier",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/e5/Courier.png/revision/latest?cb=20180119193837",
+        "rarity": "Uncommon",
+        "oracle": "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%."
+    },
+    {
+        "name": "Toolbox",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/46/Toolbox.png/revision/latest?cb=20180119193844",
+        "rarity": "Uncommon",
+        "oracle": "At the start of each combat, add a random colorless card to your hand."
+    },
+    {
+        "name": "Tough Bandages",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f7/ToughBandages.png/revision/latest?cb=20180119193855",
+        "rarity": "Uncommon - Silent",
+        "oracle": "Whenever you discard a card during your turn, gain 3 Block."
+    },
+    {
+        "name": "Toxic Egg",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/38/ToxicEgg.png/revision/latest?cb=20180119193302",
+        "rarity": "Uncommon",
+        "oracle": "Whenever you add a Skill card to your deck, it is Upgraded."
+    },
+    {
+        "name": "Bird-Faced Urn",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/9c/AncientUrn.png/revision/latest?cb=20180119001702",
+        "rarity": "Rare",
+        "oracle": "Whenever you play a Power, heal 2 HP."
+    },
+    {
+        "name": "Calipers",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/ed/Calipers.png/revision/latest?cb=20180119193945",
+        "rarity": "Rare",
+        "oracle": "At the start of your turn, lose 15 Block rather than all of your Block."
+    },
+    {
+        "name": "Champion Belt",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6d/ChampionBelt.png/revision/latest?cb=20180119193953",
+        "rarity": "Rare - Ironclad",
+        "oracle": "Whenever you apply Vulnerable, also apply 1 Weak."
+    },
+    {
+        "name": "Charon's Ashes",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f9/Ashes.png/revision/latest?cb=20180119192234",
+        "rarity": "Rare - Ironclad",
+        "oracle": "Whenever you Exhaust a card, deal 3 damage to ALL enemies."
+    },
+    {
+        "name": "Dead Branch",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/d/db/DeadBranch.png/revision/latest?cb=20180119194000",
+        "rarity": "Rare",
+        "oracle": "Whenever you Exhaust a card, add a random card to your hand."
+    },
+    {
+        "name": "Du-Vu Doll",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/fa/DuvuDoll.png/revision/latest?cb=20180119194008",
+        "rarity": "Rare",
+        "oracle": "For each Curse in y our deck, start each combat with 1 additional Strength."
+    },
+    {
+        "name": "Frozen Eye",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/97/FrozenEye.png/revision/latest?cb=20180128084357",
+        "rarity": "Rare",
+        "oracle": "When viewing your Draw Pile, the cards are now shown in order."
+    },
+    {
+        "name": "Gambling Chip",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/9/93/GamblingChip.png/revision/latest?cb=20180119194020",
+        "rarity": "Rare",
+        "oracle": "At the start of each combat, discard any number of cards then draw that many."
+    },
+    {
+        "name": "Ginger",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/85/Ginger.png/revision/latest?cb=20180119194030",
+        "rarity": "Rare",
+        "oracle": "You can no longer become Weakened."
+    },
+    {
+        "name": "Girya",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/84/Kettlebell.png/revision/latest?cb=20180119194055",
+        "rarity": "Rare",
+        "oracle": "You can now gain Strength at Rest Sites. (3 times max)"
+    },
+    {
+        "name": "Ice Cream",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/14/IceCream.png/revision/latest?cb=20180119194103",
+        "rarity": "Rare",
+        "oracle": "Energy is now conserved between turns."
+    },
+    {
+        "name": "Magic Flower",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/0e/MagicFlower.png/revision/latest?cb=20180119194111",
+        "rarity": "Rare - Ironclad",
+        "oracle": "Healing is 50% more effective during combat."
+    },
+    {
+        "name": "Mango",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/38/Mango.png/revision/latest?cb=20180119194119",
+        "rarity": "Rare",
+        "oracle": "Raise your Max HP by 14."
+    },
+    {
+        "name": "Old Coin",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/38/OldCoin.png/revision/latest?cb=20180119194126",
+        "rarity": "Rare",
+        "oracle": "Gain 300 Gold."
+    },
+    {
+        "name": "Peace Pipe",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/26/PeacePipe.png/revision/latest?cb=20180119194134",
+        "rarity": "Rare",
+        "oracle": "You can now remove cards from your deck at Rest Sites."
+    },
+    {
+        "name": "Red Skull",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4f/RedSkull.png/revision/latest?cb=20180119194146",
+        "rarity": "Rare - Ironclad",
+        "oracle": "While your HP is at or below 50%, you have 3 additional Stength."
+    },
+    {
+        "name": "Shovel",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/77/Shovel.png/revision/latest?cb=20180119194213",
+        "rarity": "Rare",
+        "oracle": "You can now Dig for loot at Rest Sites."
+    },
+    {
+        "name": "Sundial",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/1/15/Sundial.png/revision/latest?cb=20180119194220",
+        "rarity": "Rare",
+        "oracle": "Every 3 times you shuffle your deck, gain 2 Energy."
+    },
+    {
+        "name": "Thread and Needle",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/2f/ThreadAndNeedle.png/revision/latest?cb=20180119194230",
+        "rarity": "Rare",
+        "oracle": "At the start of each combat, gain 5 Plated Armor."
+    },
+    {
+        "name": "Tingsha",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/78/Tingsha.png/revision/latest?cb=20180119194257",
+        "rarity": "Rare - Silent",
+        "oracle": "Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded."
+    },
+    {
+        "name": "Torii",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/23/Torii.png/revision/latest?cb=20180119194238",
+        "rarity": "Rare",
+        "oracle": "Whenever you would receive 5 or less unblocked Attack damage, reduce it to 1."
+    },
+    {
+        "name": "Unceasing Top",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/87/Top.png/revision/latest?cb=20180119194247",
+        "rarity": "Rare",
+        "oracle": "Whenever you have no cards in hand during your turn, draw a card."
+    },
+    {
+        "name": "Astrolabe",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/83/Astrolabe.png/revision/latest?cb=20180119194305",
+        "rarity": "Boss",
+        "oracle": "Upon pick up, choose and Transform 3 cards, then Upgrade them."
+    },
+    {
+        "name": "Black Blood",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/32/BlackBlood.png/revision/latest?cb=20180119194314",
+        "rarity": "Boss - Ironclad",
+        "oracle": "Replaces Burning Blood. At the end of combat, heal 10 HP."
+    },
+    {
+        "name": "Black Star",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/56/Blackstar.png/revision/latest?cb=20180119194348",
+        "rarity": "Boss",
+        "oracle": "Elites now drop 2 Relics when defeated."
+    },
+    {
+        "name": "Calling Bell",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6e/Bell.png/revision/latest?cb=20180119194359",
+        "rarity": "Boss",
+        "oracle": "Obtain 3 Curses and 3 Relics."
+    },
+    {
+        "name": "Cursed Key",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/e0/CursedKey.png/revision/latest?cb=20180119194409",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at the start of each turn. Whenever you open a non-boss chest, obtain a Curse."
+    },
+    {
+        "name": "Ectoplasm",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/36/Ectoplasm.png/revision/latest?cb=20180119194418",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at the start of each turn. You can no longer gain Gold."
+    },
+    {
+        "name": "Eternal Feather",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f4/EternalFeather.png/revision/latest?cb=20180119194428",
+        "rarity": "Boss",
+        "oracle": "For every 5 cards in your deck, heal 2 HP whenever you enter a Rest Site."
+    },
+    {
+        "name": "Lizard Tail",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/ae/LizardTail.png/revision/latest?cb=20180119194436",
+        "rarity": "Boss",
+        "oracle": "When you would die, heal to 50% of your Max HP instead (works once)."
+    },
+    {
+        "name": "Mark of Pain",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/45/MarkOfPain.png/revision/latest?cb=20180119194444",
+        "rarity": "Boss - Ironclad",
+        "oracle": "Gain 1 Energy at the start of each turn. Start combats with 2 Wounds in your draw pile."
+    },
+    {
+        "name": "Orrery",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/75/Orrery.png/revision/latest?cb=20180119193652",
+        "rarity": "Boss",
+        "oracle": "Choose and add 5 cards to your deck."
+    },
+    {
+        "name": "Pandora's Box",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8d/PandorasBox.png/revision/latest?cb=20180119194537",
+        "rarity": "Boss",
+        "oracle": "Transform all Strikes and Defends."
+    },
+    {
+        "name": "Philosopher's Stone",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/ca/PhilosopherStone.png/revision/latest?cb=20180119194549",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at the start of each turn. ALL enemies start with 2 Strength."
+    },
+    {
+        "name": "Question Card",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6e/QuestionCard.png/revision/latest?cb=20180119194557",
+        "rarity": "Boss",
+        "oracle": "On Card Reward screens, choose from 4 cards instead of 3."
+    },
+    {
+        "name": "Runic Cube",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/36/RunicCube.png/revision/latest?cb=20180119194607",
+        "rarity": "Boss - Ironcladd",
+        "oracle": "Whenever you lose HP, draw 1 card."
+    },
+    {
+        "name": "Runic Dome",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/6/6d/RunicDome.png/revision/latest?cb=20180119194616",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at the start of each turn. You can no longer see enemy Intents."
+    },
+    {
+        "name": "Runic Pyramid",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8e/RunicPyramid.png/revision/latest?cb=20180119194625",
+        "rarity": "Boss",
+        "oracle": "At the end of your turn, you no longer discard your hand. Draw 1 less card each turn."
+    },
+    {
+        "name": "Snecko Eye",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/5e/SneckoEye.png/revision/latest?cb=20180119194634",
+        "rarity": "Boss",
+        "oracle": "Draw 2 additional cards each turn. Start each combat Confused."
+    },
+    {
+        "name": "Sozu",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/53/Sozu.png/revision/latest?cb=20180119194641",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at the start of each turn. You can no longer use potions."
+    },
+    {
+        "name": "The Specimen",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/2/23/Specimen.png/revision/latest?cb=20180119194650",
+        "rarity": "Boss - Silent",
+        "oracle": "WHenever an enemy dies, transfer any Poison it has to a random enemy."
+    },
+    {
+        "name": "Tiny House",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/53/TinyHouse.png/revision/latest?cb=20180119194720",
+        "rarity": "Boss",
+        "oracle": "Obtain 1 potion. Gain 30 Gold. Raise your Max HP by 5. Obtain 1 card. Upgrade 1 random card."
+    },
+    {
+        "name": "Velvet Choker",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/4b/RedChoker.png/revision/latest?cb=20180119194727",
+        "rarity": "Boss",
+        "oracle": "Gain 1 Energy at thye start of each turn. You cannot play more than 6 cards per turn."
+    },
+    {
+        "name": "White Beast Statue",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/42/WhiteBeast.png/revision/latest?cb=20180119194735",
+        "rarity": "Boss",
+        "oracle": "Potions always drop after combat."
+    },
+    {
+        "name": "Bloody Idol",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/4/40/BloodyChalice.png/revision/latest?cb=20180119194745",
+        "rarity": "Event",
+        "oracle": "Whenever you gain Gold, heal 5 HP."
+    },
+    {
+        "name": "Enchiridion",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8e/Enchiridion.png/revision/latest?cb=20180119194755",
+        "rarity": "Event",
+        "oracle": "At the start of each combat, add a random Power card to your hand. It costs 0 until the end of turn."
+    },
+    {
+        "name": "Golden Idol",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/7a/GoldenIdolRelic.png/revision/latest?cb=20180119194818",
+        "rarity": "Event",
+        "oracle": "Enemies drop 235% more Gold."
+    },
+    {
+        "name": "Necronomicon",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/78/Necronomicon.png/revision/latest?cb=20180119194830",
+        "rarity": "Event",
+        "oracle": "The first Attack played each turn that costs 2 or more is played twice. When you take this relic, become Cursed."
+    },
+    {
+        "name": "Neow's Lament",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/c/c4/Lament.png/revision/latest?cb=20180128084300",
+        "rarity": "Event",
+        "oracle": "Enemies in your first 3 combats will have 1 HP."
+    },
+    {
+        "name": "Nilry's Codex",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/7c/Codex.png/revision/latest?cb=20180119195015",
+        "rarity": "Event",
+        "oracle": "At the end of each turn, you can choose 1 of 3 random cards to shuffle into your draw pile."
+    },
+    {
+        "name": "Nloth's Gift",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/5/53/NlothsGift.png/revision/latest?cb=20180119194838",
+        "rarity": "Event",
+        "oracle": "Triples the chance of receiving rare cards as monster rewards."
+    },
+    {
+        "name": "Odd Mushroom",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/8/8c/Mushroom.png/revision/latest?cb=20180119194951",
+        "rarity": "Event",
+        "oracle": "When Vulnerable, take 20% more damage rather than 50%."
+    },
+    {
+        "name": "Red Mask",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a4/RedMask.png/revision/latest?cb=20180119194958",
+        "rarity": "Event",
+        "oracle": "At the start of each combat, apply 1 Weak to ALL enemies."
+    },
+    {
+        "name": "Spirit Poop",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/7/74/SpiritPoop.png/revision/latest?cb=20180119195008",
+        "rarity": "Event",
+        "oracle": "It's unpleasant."
+    },
+    {
+        "name": "Cauldron",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/37/Cauldron.png/revision/latest?cb=20180119195023",
+        "rarity": "Shop",
+        "oracle": "When obtained, brews 5 random potions."
+    },
+    {
+        "name": "Lee's Waffle",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/a/a5/Waffle.png/revision/latest?cb=20180119195033",
+        "rarity": "Shop",
+        "oracle": "Raise your Max HP by 7 and heal all of your HP."
+    },
+    {
+        "name": "Medical Kit",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/f/f2/MedicalKit.png/revision/latest?cb=20180119195041",
+        "rarity": "Shop",
+        "oracle": "Status cards can now be played. Playing a Status will Exhaust the card."
+    },
+    {
+        "name": "Membership Card",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/3/3d/MembershipCard.png/revision/latest?cb=20180119195050",
+        "rarity": "Shop",
+        "oracle": "In future acts, shops appear 50% more often. BONUS: 20% discount on oall products!"
+    },
+    {
+        "name": "Strange Spoon",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/0/09/BigSpoon.png/revision/latest?cb=20180119195057",
+        "rarity": "Shop",
+        "oracle": "Cards which Exhaust when played will instead discard 50% of the time."
+    },
+    {
+        "name": "Toy Ornithopter",
+        "type": "Relic",
+        "img": "https://vignette.wikia.nocookie.net/slay-the-spire/images/e/e4/Ornithopter.png/revision/latest?cb=20180119195106",
+        "rarity": "Shop",
+        "oracle": "Whenever you use a potion, heal 3 HP."
+    }
+]
