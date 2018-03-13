@@ -1,0 +1,11 @@
+{
+  "name": "discordbot",
+  "version": "3.0.27",
+  "description": "My custom Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jimpoulakos",
+  "license": "MIT"
+}
