@@ -1,0 +1,60 @@
+{
+    "name": "Test Plugin",
+    "short_description": "This Test Plugin contains testing code for the new Plugin BaseClass.",
+    "_trigger": "/test",
+    "commands": [
+        {
+            "key": "HELP",
+            "aliases": [
+                "--help",
+                "-h"
+            ]
+        },
+        {
+            "key": "VERSION",
+            "aliases": [
+                "--version",
+                "-v"
+            ]
+        }
+    ],
+    "version": "1.0.1",
+    "changelog": [
+        {
+            "version": "1.0.1",
+            "changes": [
+                "+ Add HELP to base plugin",
+                "+ Add VERSION to base plugin"
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "changes": [
+                "+ Initial Code Commits"
+            ]
+        }
+    ],
+    "help": {
+        "description": "This Test Plugin contains testing code for the Plugin BaseClass.",
+        "commands": [
+            {
+                "name": "Help",
+                "command": "/rules --help",
+                "help_text": "Displays this help documentation.",
+                "key": "HELP"
+            },
+            {
+                "name": "Version",
+                "command": "/rules --version",
+                "help_text": "Displays comprehensive version information.",
+                "key": "VERSION"
+            }
+        ],
+        "additional_fields": [
+            {
+                "name": "Additional Field",
+                "help_text": "This is an additional field."
+            }
+        ]
+    }
+}

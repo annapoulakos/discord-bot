@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "3.0.27",
+  "description": "This is a simple, plugin-based Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimpoulakos/discord-bot.git"
+  },
+  "author": "Jim Poulakos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimpoulakos/discord-bot/issues"
+  },
+  "homepage": "https://github.com/jimpoulakos/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fast-levenshtein": "^2.0.6",
+    "js-search": "^1.4.2"
+  }
+}
