@@ -1,0 +1,8 @@
+.github/
+node_modules/
+
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+config.example.json
